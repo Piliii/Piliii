@@ -17,10 +17,10 @@
 ---
 
 ## 💻 My Tech Playground
-I’m always experimenting with different stacks — here are some tools I vibe with:  
-
+I’m always experimenting with different stacks — here are some tools I vibe with:
+  
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)  
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffdd54)  
 ![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61DAFB)  
 ![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=flat&logo=firebase&logoColor=black)  
